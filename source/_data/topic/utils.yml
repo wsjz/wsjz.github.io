@@ -1,0 +1,23 @@
+name: 常用工具
+title: 常用工具
+subtitle: '常用工具 | Designed by wsjz'
+tags: 常用工具
+icon: /assets/wiki/stellar/icon.svg
+cover: /assets/wiki/stellar/icon.svg
+description: 常用工具
+repo: wsjz/tinykv
+search:
+  filter: /wiki/utils
+  placeholder: 在常用工具中搜索...
+leftbar: 
+  - tree
+  - timeline_stellar_releases
+  - related
+comment_title: '评论区仅供交流，有问题请提 [issue](https://github.com/wsjz) 反馈。'
+
+base_dir: /wiki/utils
+tree:
+  '快速开始':
+    - index
+  '基本使用':
+    - install

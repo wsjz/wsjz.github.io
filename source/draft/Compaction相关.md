@@ -111,7 +111,6 @@ SR借助了LSM树的思想，不同的是SR把LSM树的SSTable逻辑上称为**R
 ![image-20241230162907959](../gallery/typora/image-20241230162907959.png)
 
 
-
 ### 存算一体Compaction实现
 
 #### 触发策略
